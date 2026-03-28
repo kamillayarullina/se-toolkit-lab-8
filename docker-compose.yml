@@ -100,6 +100,8 @@ services:
   #       workspace: .
   #     args:
   #       REGISTRY_PREFIX_DOCKER_HUB: ${REGISTRY_PREFIX_DOCKER_HUB:-}
+  #       APP_UID: ${HOST_UID:-1000}
+  #       APP_GID: ${HOST_GID:-1000}
   #   restart: unless-stopped
   #   user: "${HOST_UID:-1000}:${HOST_GID:-1000}"
   #   networks:
