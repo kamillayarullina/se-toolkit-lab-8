@@ -20,14 +20,21 @@
         "to": "06ce4c28-28ad-4acc-ac5c-3dabb1c12fbc"
       },
       "state": {
-        "nextRunAtMs": 1775159584113,
-        "lastRunAtMs": null,
-        "lastStatus": null,
+        "nextRunAtMs": 1775160496478,
+        "lastRunAtMs": 1775159584115,
+        "lastStatus": "ok",
         "lastError": null,
-        "runHistory": []
+        "runHistory": [
+          {
+            "runAtMs": 1775159584115,
+            "status": "ok",
+            "durationMs": 12363,
+            "error": null
+          }
+        ]
       },
       "createdAtMs": 1775158684113,
-      "updatedAtMs": 1775158684113,
+      "updatedAtMs": 1775159596478,
       "deleteAfterRun": false
     }
   ]

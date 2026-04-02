@@ -1,4 +1,4 @@
-# Lab 8 se-toolkit-course  — Report
+# Lab 8 toolkit-course  — Report
 
 ## Task 1A — Bare agent
 
